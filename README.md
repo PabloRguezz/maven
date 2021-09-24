@@ -16,7 +16,7 @@ Seguidamente de esto comenzaremos a instalar la herramienta Maven: **“sudo apt
 
 Cuando se haya terminado de instalar comprobaremos la versión que se ha instalado, esto con el comando : **“mvn -version”**.
 
-<img src="img/.png">
+<img src="img/20.png">
 
 ### Instalación de una versión concreta de Maven
 
